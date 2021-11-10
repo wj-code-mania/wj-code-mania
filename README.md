@@ -7,8 +7,8 @@ My first programming language was C++, and strongest programming language is Jav
 I'm interested in blockchain, AI, machine learning technologies, and like tricks on frontend visual effects.
 I worked on web & mobile app projects, C++ libraries and over the past years I've been working on web3 projects mostly as a frontend developer.
 
-- :computer: I’m currently working on [DIGITALAX](https://digitalax.xyz).
-- 🌱 I’m currently learning solidity.
+- :computer:   I’m currently working on [DIGITALAX](https://digitalax.xyz).
+- 🌱   I’m currently learning solidity.
 
 ### Languages and Tools:
 
