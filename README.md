@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to my github profile!!! 👋👋👋:clap::clap::clap:
 
+- I’m currently learning solidity.
 <!--
 **wj-code-mania/wj-code-mania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
