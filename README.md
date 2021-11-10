@@ -1,4 +1,4 @@
-### Welcome to my github profile!!! 👋👋👋:clap::clap::clap:
+### :clap::clap::clap: 👋👋👋 Welcome to my github profile!!! 👋👋👋 :clap::clap::clap:
 
 - I’m currently learning solidity.
 <!--
