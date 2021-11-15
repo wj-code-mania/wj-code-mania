@@ -3,7 +3,7 @@
 ###### Hi, How are you doing?
 ###### I'm a code mania who have been writing codes as a professional developer for 12 years.
 ###### I spend more than 12 hours per day by writing codes.
-###### My first programming language was C++, and strongest programming language is Javascript.
+###### My first programming language was C++, and now the strongest programming language is Javascript.
 ###### I'm interested in blockchain, AI, machine learning technologies, and like tricks on frontend visual effects.
 ###### I worked on web & mobile app projects, C++ libraries and over the past years I've been working on web3 projects mostly as a frontend developer.
 
