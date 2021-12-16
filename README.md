@@ -10,6 +10,10 @@
 - :computer:   I’m currently working on [DIGITALAX](https://digitalax.xyz).
 - 🌱   I’m currently learning solidity.
 
+### Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=wj-code-mania&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
