@@ -7,7 +7,6 @@
 ###### I'm interested in blockchain, AI, machine learning technologies, and like tricks on frontend visual effects.
 ###### I worked on web & mobile app projects, C++ libraries and over the past years I've been working on web3 projects mostly as a frontend developer.
 
-- 🌱   I’m currently learning solidity.
 
 ### Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=wj-code-mania&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
